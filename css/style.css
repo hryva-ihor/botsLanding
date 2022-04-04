@@ -2110,7 +2110,7 @@ form.label-outside .form-validation {
 .textarea-lined-wrap {
 	position: relative;
 	line-height: 2.39;
-	background: url("../images/textarea-pattern-light.png") repeat;
+	background: url("../images/textarea-pattern-light.webp") repeat;
 }
 
 .textarea-lined-wrap textarea {
@@ -14500,7 +14500,7 @@ div .text_with_line_L1{
 	content: "";
 	width: 100px;
 	height: 100px;
-	background: url(../images/video-play.png) center no-repeat;
+	background: url(../images/video-play.webp) center no-repeat;
 	background-size: contain;
 	-webkit-transform: scale(0.8);
 	transform: scale(0.8);
@@ -14565,7 +14565,7 @@ div .text_with_line_L1{
     padding: 0;
     outline: 0;
     width: 100%;
-    background: url(../img/price_bg-251.arb.png);
+    background: url(../img/price_bg-251.arb.webp);
     background-size: cover;
     background-repeat: no-repeat;
 	background-position: center;
